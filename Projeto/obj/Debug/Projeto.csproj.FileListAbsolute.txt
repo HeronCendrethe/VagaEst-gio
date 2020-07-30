@@ -1,0 +1,13 @@
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.FrmRealizarPedido.resources
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.FrmVisualizar.resources
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.Menu.resources
+C:\Users\Heron Cendrethe\source\repos\Projeto\Projeto\obj\Debug\Projeto.VisualizarBebidas.resources
